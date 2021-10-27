@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="text-align:center;">HELLO!</h1>
+
+<p style="color:blue;"><i>NIK AZZA BINTI NIK ZURAIMI</i></p>
+<p style="color:blue;"><i>NIK AZZA BINTI NIK ZURAIMI</i></p>
+<p style="color:blue;"><i>NIK AZZA BINTI NIK ZURAIMI</i></p>
+
+<p style="color:black;"><center><b>KIM110 5E</b></p>
+<p style="color:black;"><center><b>KIM110 5E</b></p>
+<p style="color:black;"><center><b>KIM110 5E</b></p>
+
+
+
+</body>
+</html>
+
+
